@@ -1,19 +1,19 @@
 ---
-title: 'Rt-acl: Identification of high-risk youth patients and their most significant
-  risk factors to reduce anterior cruciate ligament reinjury risk'
+title: 'Using Decision Tree Classifier to Increase Screening Test Sensitivity for the Prediction of ACL Retear'
 authors:
-- admin
-- Pengyuan Lu
-- Elliot Greenberg
+- Govil_Tanishk  
+- Hamid_Tarek
+- Kimberly Helm
+- Elliot Greenberg 
+- Kevin Landrum 
 - J Todd R Lawrence
 - Theodore J Ganley
-- Insup Lee
-- James Weimer
-date: '2021-01-01'
-publishDate: '2023-11-09T04:01:28.360394Z'
+- admin
+date: '2024-05-01'
+publishDate: '2024-05-09T04:01:28.360394Z'
 publication_types:
 - paper-conference
-publication: '*2021 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)*'
+publication: '*Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing(Poster @ Ubicomp)*'
 url_pdf: '' 
 url_slides: 'https://amandawatson.org/publication/watson-2021-rt/ACLRT.pdf'
 ---

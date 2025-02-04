@@ -4,7 +4,6 @@ authors:
 - Hamid_Tarek
 - Anush Lingamoorthy
 - Kyle Quinn
-- Amanda Watson
 - admin
 date: '2024-08-16'
 publishDate: '2024-08-16T04:01:28.509412Z'
@@ -16,7 +15,7 @@ url_code: ''
 url_video: 
 
 image:
-caption: 'Raproto'
+caption: ''
 focal_point: ''
 preview_only: false
 tags:

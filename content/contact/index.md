@@ -1,5 +1,5 @@
 ---
-title: "Contact Watson Research Lab"
+title: "Contact the Watson Research Lab"
 summary: "Get in touch with the Watson Research Lab."
 date: 2025-02-04
 type: "page"

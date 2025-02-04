@@ -5,48 +5,19 @@ date: 2025-02-04
 type: landing
 
 sections:
-  - block: about.avatar
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: |-
-    design:
-      background:
-        color: '#090a0b'
-        text_color_light: true
-        video:
-          path: background-video.mp4
-      css_class: d-flex fullscreen align-items-center
   - block: markdown
     content:
-      title:
-      subtitle: ''
+      title: Welcome to the Watson Research Lab
+      subtitle: by Amanda Watson
       text: 
     design:
-      columns: '1'
+      spacing:
+        padding: [29rem, 0, 1rem, 0]
+        margin: [0, 0, 0, 0]
       background:
         video:
-          path : voltera.mp4
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-      
-  - block: hero
-    content:
-      title: |
-        Watson Research Lab
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Watson Research Lab** site is under construction. Please check back soon.
+          filename: voltera.mp4
+        text_color_light: true
   
   - block: collection
     content:

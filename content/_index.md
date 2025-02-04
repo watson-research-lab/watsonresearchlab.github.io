@@ -21,7 +21,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''

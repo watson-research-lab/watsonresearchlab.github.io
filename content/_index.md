@@ -1,15 +1,14 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-2-4
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Watson Research Lab
       image:
         filename: welcome.jpg
       text: |
@@ -33,40 +32,26 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
+      view: showcase
       columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
   - block: collection
     content:
-      title: Latest Preprints
-      text: ""
+      title: Latest Publications
+      subtitle:
+      text:
       count: 5
       filters:
-        folders:
-          - publication
-        publication_type: 'article'
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: publication
     design:
-      view: citation
+      view: compact
       columns: '1'
 
   - block: markdown

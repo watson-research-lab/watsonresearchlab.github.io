@@ -31,9 +31,6 @@ education:
     - course: Bachelors in Computer Engineering
       institution: UVA
       year: 2026
-    - course: High School 
-      institution: Centreville High School
-      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,7 +42,7 @@ social:
     link: 'mailto:rjr5dn@virginia.edu'
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/jane-byun-9439222a3
+    link: https://www.linkedin.com/in/jason-bao-minh-nguyen/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -55,5 +52,5 @@ highlight_name: false
 user_groups:
   - Undergraduate Students
 ---
-Jason Nguyen is a second-year undergraduate student pursuing a Bachelors in Computer Engineering at the University of Virginia. She is currently working as an undergraduate research assistant in the Watson Research Lab, which develops wearable technology for healthcare and athletic performance.
+Jason Nguyen is a second-year undergraduate student pursuing a Bachelors in Computer Engineering at the University of Virginia. He is currently working as an undergraduate research assistant in the Watson Research Lab, which develops wearable technology for healthcare and athletic performance.
 

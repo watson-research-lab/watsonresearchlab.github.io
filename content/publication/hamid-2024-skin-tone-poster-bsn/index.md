@@ -12,7 +12,7 @@ publication_types:
 publication: '*2024 IEEE 21st International Conference on Body Sensor Networks (BSN) Poster and Demo Session*'
 url_pdf: '' 
 url_code: ''
-url_video: 
+url_poster: 'https://amandawatson.org/publication/hamid-2024-skin-tone-poster/hamid-2024-skin-tone-poster.pdf'
 
 image:
 caption: ''

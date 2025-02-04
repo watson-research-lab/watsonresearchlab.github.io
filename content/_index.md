@@ -36,6 +36,17 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
+      
+  - block: hero
+    content:
+      title: |
+        Watson Research Lab
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+        
+        The **Watson Research Lab** site is under construction. Please check back soon.
   
   - block: collection
     content:

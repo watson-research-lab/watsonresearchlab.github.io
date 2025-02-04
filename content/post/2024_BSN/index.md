@@ -1,6 +1,6 @@
 ---
-title: We presented "Drug Overdose Vital-Signs Evaluator Using Machine Learning" at IJCAI 2024!
-date: '2024-08-16'
+title: Tarek presented "Raproto An Open-Source Platform for Rapid Prototyping with Wearable Devices" at BSN 2024 and was 2nd Runner Up for Best Paper Award!
+date: '2024-11-16'
 tags:
-summary: Check out the publication here [Link to Article.](https://amandawatson.org/publication/lingamoorthy-2024-ijcai/lingamoorthy-2024-IJCAI.pdf)
+summary: Check out the publication here [Link to Article.](http://watsonresearchlab.org/publication/hamid-2024-raproto/hamid-2024-raproto.pdf)
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Contact Watson Research Lab"
 summary: "Get in touch with the Watson Research Lab."
 date: 2025-02-04
 type: "page"
@@ -8,8 +8,6 @@ menu:
     name: "Contact"
     weight: 50
 ---
-
-# Contact Watson Research Lab
 
 We welcome inquiries related to our research, collaborations, and opportunities to work with us.
 

@@ -5,16 +5,37 @@ date: 2025-02-04
 type: landing
 
 sections:
-  - block: hero
+  - block: about.avatar
     content:
-      title: |
-        Watson Research Lab
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      text: |-
+    design:
+      background:
+        color: '#090a0b'
+        text_color_light: true
+        video:
+          path: background-video.mp4
+      css_class: d-flex fullscreen align-items-center
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text: 
+    design:
+      columns: '1'
+      background:
+        video:
+          path : voltera.mp4
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
   
   - block: collection
     content:

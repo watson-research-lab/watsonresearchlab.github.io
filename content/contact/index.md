@@ -19,7 +19,7 @@ Charlottesville, VA, USA
 
 ## 📧 Email  
 For general inquiries, please email us at:  
-📩 [amandaawatson22@gmail.com](mailto:amandaawatson22@gmail.com)  
+📩 [aawatson@virginia.edu](mailto:aawatson@virginia.edu)  
 
 ## 🔗 Connect  
 You can also find us online:  

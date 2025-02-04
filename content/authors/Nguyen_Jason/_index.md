@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jane Byun
+title: Jason Nguyen
 
 # Full Name (for SEO)
-first_name: Jane
-last_name: Byun
+first_name: Jason
+last_name: Nguyen
 
 # Is this the primary user of the site?
 superuser: false
@@ -55,5 +55,5 @@ highlight_name: false
 user_groups:
   - Undergraduate Students
 ---
-Jane Byun is a second-year undergraduate student pursuing a Bachelors in Computer Engineering at the University of Virginia. She is currently working as an undergraduate research assistant in the Watson Research Lab, which develops wearable technology for healthcare and athletic performance.
+Jason Nguyen is a second-year undergraduate student pursuing a Bachelors in Computer Engineering at the University of Virginia. She is currently working as an undergraduate research assistant in the Watson Research Lab, which develops wearable technology for healthcare and athletic performance.
 

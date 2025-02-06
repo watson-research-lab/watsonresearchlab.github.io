@@ -8,7 +8,7 @@ authors:
 - Zhang_Haoran
 - Kyle Quinn
 - admin
-date: '2025-2-06'
+date: '2025-02-06'
 publishDate: '2025-02-06T04:01:28.509412Z'
 publication_types:
 - paper-conference

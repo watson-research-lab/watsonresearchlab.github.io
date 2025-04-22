@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Nathan Cabrera
+title: Patricia Flores
 
 # Full Name (for SEO)
-first_name: Nathan
-last_name: Cabrera
+first_name: Patricia
+last_name: Flores
 
 # Is this the primary user of the site?
 superuser: true
@@ -37,7 +37,7 @@ education:
     # - course: MS in Computer Science
     #   institution: UVA
     #   year: 2024
-    - course: Current Bachelors in Mechanical and Aerospace Engineering
+    - course: Current Bachelors in Electrical Engineering
       institution: UVA
       year: 2027
 
@@ -58,9 +58,9 @@ social:
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/aawatson22
-  - icon: linkedin
-    icon_pack: fab
-    link: hhttps://www.linkedin.com/in/nathan-cabrera-2b0b42287/
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/in/amandawatson22/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -74,4 +74,4 @@ user_groups:
   - Undergraduate Students
 ---
 
-Nathan Cabrera is an undergraduate student pursuing a Bachelors in Mechanical and Aerospace Engineering at the University of Virginia. He is currently working as an undergraduate research assistant in the Watson Research Lab, which develops wearable technology for healthcare and athletic performance.
+Patricia Flores is an undergraduate student pursuing a Bachelors in Electrical Engineering at the University of Virginia. She is currently working as an undergraduate research assistant in the Watson Research Lab, which develops wearable technology for healthcare and athletic performance.

@@ -30,6 +30,9 @@ education:
     - course: Current Masters in Computer Engineering
       institution: UVA
       year: 2025
+    - course: Bachelors in Computer Engineering
+      institution: UVA
+      year: 2024
    
   
 

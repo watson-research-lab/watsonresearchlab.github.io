@@ -7,11 +7,11 @@ authors:
 - Kimberly Helm
 - J Todd R Lawrence
 - Theodore J Ganley
-date: '2024-05-01'
-publishDate: '2024-05-09T04:01:28.360394Z'
+date: '2025-04-01'
+publishDate: '2025-04-09T04:01:28.360394Z'
 publication_types:
 - paper-conference
-publication: '*OJSM24: Orthopaedic Journal of Sports Medicine*'
-url_pdf: '' 
-url_slides: 'https://amandawatson.org/publication/watson-2021-rt/ACLRT.pdf'
+publication: '*OJSM25: Orthopaedic Journal of Sports Medicine*'
+url_pdf: 'https://journals.sagepub.com/doi/full/10.1177/23259671251329355' 
+url_slides: ''
 ---

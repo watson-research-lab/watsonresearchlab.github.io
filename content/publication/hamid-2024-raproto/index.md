@@ -10,7 +10,6 @@ authors:
 - Steve Messe
 - Stefanie Modri
 - Insup Lee
-- Amanda Watson
 - James Weimer
 - admin
 date: '2024-08-16'

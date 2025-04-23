@@ -1,0 +1,48 @@
+{{/* PDF button */}}
+{{ with .Params.url_pdf }}
+<a class="btn btn-outline-primary btn-page-header" href="{{ . }}" target="_blank" rel="noopener">
+  {{ i18n "pdf" }}
+</a>
+{{ end }}
+
+{{/* Code button */}}
+{{ with .Params.url_code }}
+<a class="btn btn-outline-primary btn-page-header" href="{{ . }}" target="_blank" rel="noopener">
+  {{ i18n "code" }}
+</a>
+{{ end }}
+
+{{/* Slides button */}}
+{{ with .Params.url_slides }}
+<a class="btn btn-outline-primary btn-page-header" href="{{ . }}" target="_blank" rel="noopener">
+  {{ i18n "slides" }}
+</a>
+{{ end }}
+
+{{/* Video button */}}
+{{ with .Params.url_video }}
+<a class="btn btn-outline-primary btn-page-header" href="{{ . }}" target="_blank" rel="noopener">
+  {{ i18n "video" }}
+</a>
+{{ end }}
+
+{{/* Dataset button */}}
+{{ with .Params.url_dataset }}
+<a class="btn btn-outline-primary btn-page-header" href="{{ . }}" target="_blank" rel="noopener">
+  {{ i18n "dataset" }}
+</a>
+{{ end }}
+
+{{/* Project button */}}
+{{ with .Params.url_project }}
+<a class="btn btn-outline-primary btn-page-header" href="{{ . }}" target="_blank" rel="noopener">
+  {{ i18n "project" }}
+</a>
+{{ end }}
+
+{{/* 🆕 Poster button */}}
+{{ with .Params.url_poster }}
+<a class="btn btn-outline-primary btn-page-header" href="{{ . }}" target="_blank" rel="noopener">
+  Poster
+</a>
+{{ end }}

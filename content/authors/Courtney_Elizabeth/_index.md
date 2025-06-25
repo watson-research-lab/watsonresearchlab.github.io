@@ -43,6 +43,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/wasabi-liz
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=e_2fICgAAAAJ&hl=en&oi=sra
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/elizabeth-courtney-629933270

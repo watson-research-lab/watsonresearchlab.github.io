@@ -52,9 +52,9 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/DrWatson_22
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user%253D2UFPsQYAAAAJ%2526hl%253Den
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=1lyZo3AAAAAJ&hl=en&oi=sra
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/aawatson22

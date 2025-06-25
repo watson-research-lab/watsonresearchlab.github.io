@@ -10,7 +10,7 @@ last_name: Lu
 superuser: true
 
 # Role/position
-role: Firmware Engineer at Xbox 
+role: "Firmware Engineer at Xbox<br>Undergraduate Alumni"
 
 # Organizations/Affiliations
 organizations:

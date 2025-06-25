@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Elizabeth Courtney
+title: Elizabeth C. Courtney
 
 # Full Name (for SEO)
 first_name: Elizabeth

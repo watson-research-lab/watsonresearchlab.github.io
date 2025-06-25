@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Patricia Flores
+title: Patricia D. Flores
 
 # Full Name (for SEO)
 first_name: Patricia

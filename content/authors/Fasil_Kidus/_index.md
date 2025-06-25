@@ -10,7 +10,7 @@ last_name: Fasil
 superuser: false
 
 # Role/position
-role: Masters Student
+role: Signal Processing Engineer at Spectric Labs
 
 # Organizations/Affiliations
 organizations:
@@ -27,6 +27,7 @@ interests:
 
 education:
   courses:
+    - course: Signal Processing Engineer at Spectric Labs
     - course: Current Masters in Computer Engineering
       institution: UVA
       year: 2025
@@ -57,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-   - Masters Students
+   - Alumni
 ---
 
 Kidus Fasil is an Graduate Student pursuing his Masters in Computer Engineering at the University of Virginia. His research interests include Wearable Technology, Internet of Things, and Embedded Systsems. He is a member of the Watson Research Lab, which develops wearable technology for healthcare and athletic performance.

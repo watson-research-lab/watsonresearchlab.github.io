@@ -55,12 +55,12 @@ social:
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.com/citations?user%253D2UFPsQYAAAAJ%2526hl%253Den
-  - icon: github
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/aawatson22
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/patricia-flores-789687371/
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/amandawatson22/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

@@ -59,9 +59,9 @@ social:
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/aawatson22
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/amandawatson22/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/mikey-clark-595696274/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

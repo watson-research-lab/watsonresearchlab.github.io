@@ -13,7 +13,7 @@ publication_types:
 - article-journal
 publication: '*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
   Technologies*'
-url_pdf: '' 
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3729474' 
 url_code: ''
 url_poster: ''
 

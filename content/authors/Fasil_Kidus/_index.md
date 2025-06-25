@@ -10,7 +10,7 @@ last_name: Fasil
 superuser: false
 
 # Role/position
-role: Signal Processing Engineer at Spectric Labs
+role: "Signal Processing Engineer at Spectric Labs <br>Undergraduate & Masters Alumni"
 
 # Organizations/Affiliations
 organizations:

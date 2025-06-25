@@ -1,5 +1,5 @@
 ---
-title: DermaGlow: Objective Quantification of Melanin, Erythema and Skin-tone Using Wearable Optical Spectroscopy
+title: "DermaGlow: Objective Quantification of Melanin, Erythema and Skin-tone Using Wearable Optical Spectroscopy"
 authors:
 - Hamid_Tarek
 - Flores_Patricia

@@ -11,7 +11,7 @@ publication_types:
 - article-journal
 publication: '*EMBC*'
 url_pdf: '' 
-url_poster: 'https://watsonresearchlab.org/publication/zhang-2025-openspectro/EMBC_Poster'
+url_poster: 'https://watsonresearchlab.org/publication/zhang-2025-openspectro/EMBC_Poster.pdf'
 
 ---
 
